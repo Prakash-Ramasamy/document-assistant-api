@@ -3,6 +3,10 @@
 ## Overview
 The Document Assistant API is a .NET 6.0 web API that leverages Azure Cognitive Services and OpenAI to read and summarize documents. It provides endpoints to read document content and generate summaries based on user queries.
 
+## Architecture Diagram
+
+![Architecture Diagram](./architecture_diagram.png)
+
 ## Project Structure
 ```
 AzDocumentReadOpenAIAPI/
