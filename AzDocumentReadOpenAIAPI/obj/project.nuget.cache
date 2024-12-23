@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BaZJVl/zVbG3JkKE2qY7F//q/Y7CO1CxCJYD/hD0u98mMxGxFVNKrFcUkm8X8+pTXOToRSBO1YJzP7zRcrvraA==",
+  "dgSpecHash": "X+tSlK/B5B4pLxm/VWMPR5eOELGiI1Jmc1j36DtLu0yVc52kzciFdAcbC8CWDyuKf7xnW69Q8tS+DUMUoO2log==",
   "success": true,
-  "projectFilePath": "C:\\D-Drive\\Repo\\Git\\DocumentRead-OpenAI-Api\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI.csproj",
+  "projectFilePath": "C:\\D-Drive\\Repo\\Git\\document-assistant-api\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\praka\\.nuget\\packages\\azure.ai.formrecognizer\\4.1.0\\azure.ai.formrecognizer.4.1.0.nupkg.sha512",
     "C:\\Users\\praka\\.nuget\\packages\\azure.ai.openai\\2.1.0\\azure.ai.openai.2.1.0.nupkg.sha512",

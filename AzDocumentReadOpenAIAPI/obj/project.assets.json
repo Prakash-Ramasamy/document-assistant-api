@@ -802,11 +802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\D-Drive\\Repo\\Git\\DocumentRead-OpenAI-Api\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI.csproj",
+      "projectUniqueName": "C:\\D-Drive\\Repo\\Git\\document-assistant-api\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI.csproj",
       "projectName": "AzDocumentReadOpenAIAPI",
-      "projectPath": "C:\\D-Drive\\Repo\\Git\\DocumentRead-OpenAI-Api\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI.csproj",
+      "projectPath": "C:\\D-Drive\\Repo\\Git\\document-assistant-api\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI.csproj",
       "packagesPath": "C:\\Users\\praka\\.nuget\\packages\\",
-      "outputPath": "C:\\D-Drive\\Repo\\Git\\DocumentRead-OpenAI-Api\\AzDocumentReadOpenAIAPI\\AzDocumentReadOpenAIAPI\\obj\\",
+      "outputPath": "C:\\D-Drive\\Repo\\Git\\document-assistant-api\\AzDocumentReadOpenAIAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
