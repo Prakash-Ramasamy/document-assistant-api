@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2rUp9gmh6NjmmYkpcMSzJA0VTRyS+7iGfmd1/+eYk7U=",
+  "Source": "AzDocumentReadOpenAIAPI",
+  "BasePath": "_content/AzDocumentReadOpenAIAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
